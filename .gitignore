@@ -1,0 +1,4 @@
+
+# Ignore Python backup files
+vpcctl.py.bak.*
+vpcctl.py.save*
