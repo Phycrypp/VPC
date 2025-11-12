@@ -39,6 +39,8 @@ sudo ./vpcctl.py apply-policy --vpc demo --subnet public --policy policies/sampl
 sudo ./vpcctl.py teardown --vpc demo
 sudo ./vpcctl.py teardown --vpc prod
 ```
+## Architectural Drawing
+https://drive.google.com/file/d/1-RV0tsEBAzjDi8zLE0tnP2J5Q6hi_Ynh/view?usp=sharing
 
 ## By
 phycrypp olaoluwa
